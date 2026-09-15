@@ -17,4 +17,4 @@
 3. **Frontend:** set `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`, `VITE_WEBHOOK_BASE_URL` env vars, deploy
 
 ## Known Limitations
-- - All core flows — registration, cancellation, event management, status changes, and the admin dashboard — are fully functional end-to-end.
+- - All core flows  registration, cancellation, event management, status changes, and the admin dashboard are fully functional end-to-end.
